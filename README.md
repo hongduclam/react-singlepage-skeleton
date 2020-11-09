@@ -1,1 +1,3 @@
-# react-singlepage-skeleton
+# reactjs-singlepage-skeleton
+# auth
+# user profile
